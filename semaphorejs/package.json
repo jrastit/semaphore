@@ -30,7 +30,7 @@
     "ganache-cli": "^6.4.1",
     "ganache-core": "^2.5.3",
     "html-webpack-plugin": "^3.2.0",
-    "level-rocksdb": "^3.0.1",
+    "level-rocksdb": "^4.0.0",
     "mocha": "^6.0.2",
     "node-fetch": "^2.3.0",
     "require-nocache": "^1.0.0",
